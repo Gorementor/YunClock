@@ -78,3 +78,4 @@ Debug/YunClock.hex
 *.elf
 *.hex
 *.d
+*.suo
